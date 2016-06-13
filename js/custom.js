@@ -1091,7 +1091,7 @@ function exportSVG() {
             },
 
             error: function (result) {
-                alert('Error occured, please try again later!');
+                alert('Error occurred, please try again later!');
             }
         });
     
